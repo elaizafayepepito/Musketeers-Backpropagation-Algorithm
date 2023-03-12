@@ -97,9 +97,9 @@
             this.label5.ForeColor = System.Drawing.Color.Indigo;
             this.label5.Location = new System.Drawing.Point(157, 31);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(496, 46);
+            this.label5.Size = new System.Drawing.Size(543, 46);
             this.label5.TabIndex = 4;
-            this.label5.Text = "Iris Flower Species Prediction";
+            this.label5.Text = "Iris Flower Species Classification";
             // 
             // textBox1
             // 
@@ -158,7 +158,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(109, 44);
             this.button1.TabIndex = 9;
-            this.button1.Text = "PREDICT";
+            this.button1.Text = "TEST";
             this.button1.UseVisualStyleBackColor = false;
             // 
             // label6
@@ -168,9 +168,9 @@
             this.label6.ForeColor = System.Drawing.Color.Indigo;
             this.label6.Location = new System.Drawing.Point(254, 405);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(92, 28);
+            this.label6.Size = new System.Drawing.Size(104, 28);
             this.label6.TabIndex = 10;
-            this.label6.Text = "SPECIES:";
+            this.label6.Text = "NUMBER:";
             // 
             // label7
             // 
@@ -254,7 +254,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Iris Flower Species Prediction";
+            this.Text = "Iris Flower Species Classification";
             this.ResumeLayout(false);
             this.PerformLayout();
 
