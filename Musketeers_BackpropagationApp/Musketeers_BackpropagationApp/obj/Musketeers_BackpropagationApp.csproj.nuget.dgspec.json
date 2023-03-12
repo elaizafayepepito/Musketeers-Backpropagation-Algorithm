@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CANEDA_GINALYN\\Caneda, Ginalyn_Repository\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp.csproj": {}
+    "C:\\Users\\Gecko\\Documents\\3RD YEAR C1\\CS346\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp.csproj": {}
   },
   "projects": {
-    "C:\\CANEDA_GINALYN\\Caneda, Ginalyn_Repository\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp.csproj": {
+    "C:\\Users\\Gecko\\Documents\\3RD YEAR C1\\CS346\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CANEDA_GINALYN\\Caneda, Ginalyn_Repository\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp.csproj",
+        "projectUniqueName": "C:\\Users\\Gecko\\Documents\\3RD YEAR C1\\CS346\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp.csproj",
         "projectName": "Musketeers_BackpropagationApp",
-        "projectPath": "C:\\CANEDA_GINALYN\\Caneda, Ginalyn_Repository\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\CANEDA_GINALYN\\Caneda, Ginalyn_Repository\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\obj\\",
+        "projectPath": "C:\\Users\\Gecko\\Documents\\3RD YEAR C1\\CS346\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp.csproj",
+        "packagesPath": "C:\\Users\\Gecko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gecko\\Documents\\3RD YEAR C1\\CS346\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Gecko\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
