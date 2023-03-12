@@ -37,12 +37,12 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.test = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.output = new System.Windows.Forms.Label();
+            this.train = new System.Windows.Forms.Button();
+            this.create = new System.Windows.Forms.Button();
+            this.epoch = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -97,7 +97,7 @@
             this.label5.ForeColor = System.Drawing.Color.Indigo;
             this.label5.Location = new System.Drawing.Point(157, 31);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(543, 46);
+            this.label5.Size = new System.Drawing.Size(526, 45);
             this.label5.TabIndex = 4;
             this.label5.Text = "Iris Flower Species Classification";
             // 
@@ -149,17 +149,18 @@
             this.textBox4.TabIndex = 8;
             this.textBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // button1
+            // test
             // 
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button1.Font = new System.Drawing.Font("Malgun Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button1.ForeColor = System.Drawing.Color.Indigo;
-            this.button1.Location = new System.Drawing.Point(503, 495);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(109, 44);
-            this.button1.TabIndex = 9;
-            this.button1.Text = "TEST";
-            this.button1.UseVisualStyleBackColor = false;
+            this.test.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.test.Font = new System.Drawing.Font("Malgun Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.test.ForeColor = System.Drawing.Color.Indigo;
+            this.test.Location = new System.Drawing.Point(503, 495);
+            this.test.Name = "test";
+            this.test.Size = new System.Drawing.Size(109, 44);
+            this.test.TabIndex = 9;
+            this.test.Text = "TEST";
+            this.test.UseVisualStyleBackColor = false;
+            this.test.Click += new System.EventHandler(this.test_Click);
             // 
             // label6
             // 
@@ -168,57 +169,59 @@
             this.label6.ForeColor = System.Drawing.Color.Indigo;
             this.label6.Location = new System.Drawing.Point(254, 405);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(104, 28);
+            this.label6.Size = new System.Drawing.Size(92, 28);
             this.label6.TabIndex = 10;
-            this.label6.Text = "NUMBER:";
+            this.label6.Text = "SPECIES:";
             // 
-            // label7
+            // output
             // 
-            this.label7.AutoSize = true;
-            this.label7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.label7.Font = new System.Drawing.Font("Malgun Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label7.ForeColor = System.Drawing.Color.Indigo;
-            this.label7.Location = new System.Drawing.Point(367, 405);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(222, 28);
-            this.label7.TabIndex = 11;
-            this.label7.Text = "                              ";
+            this.output.AutoSize = true;
+            this.output.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.output.Font = new System.Drawing.Font("Malgun Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.output.ForeColor = System.Drawing.Color.Indigo;
+            this.output.Location = new System.Drawing.Point(367, 405);
+            this.output.Name = "output";
+            this.output.Size = new System.Drawing.Size(222, 28);
+            this.output.TabIndex = 11;
+            this.output.Text = "                              ";
             // 
-            // button2
+            // train
             // 
-            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button2.Font = new System.Drawing.Font("Malgun Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button2.ForeColor = System.Drawing.Color.Indigo;
-            this.button2.Location = new System.Drawing.Point(368, 495);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(109, 44);
-            this.button2.TabIndex = 12;
-            this.button2.Text = "TRAIN";
-            this.button2.UseVisualStyleBackColor = false;
+            this.train.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.train.Font = new System.Drawing.Font("Malgun Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.train.ForeColor = System.Drawing.Color.Indigo;
+            this.train.Location = new System.Drawing.Point(368, 495);
+            this.train.Name = "train";
+            this.train.Size = new System.Drawing.Size(109, 44);
+            this.train.TabIndex = 12;
+            this.train.Text = "TRAIN";
+            this.train.UseVisualStyleBackColor = false;
+            this.train.Click += new System.EventHandler(this.train_Click);
             // 
-            // button3
+            // create
             // 
-            this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button3.Font = new System.Drawing.Font("Malgun Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button3.ForeColor = System.Drawing.Color.Indigo;
-            this.button3.Location = new System.Drawing.Point(231, 495);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(109, 44);
-            this.button3.TabIndex = 13;
-            this.button3.Text = "CREATE";
-            this.button3.UseVisualStyleBackColor = false;
+            this.create.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.create.Font = new System.Drawing.Font("Malgun Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.create.ForeColor = System.Drawing.Color.Indigo;
+            this.create.Location = new System.Drawing.Point(231, 495);
+            this.create.Name = "create";
+            this.create.Size = new System.Drawing.Size(109, 44);
+            this.create.TabIndex = 13;
+            this.create.Text = "CREATE";
+            this.create.UseVisualStyleBackColor = false;
+            this.create.Click += new System.EventHandler(this.create_Click);
             // 
-            // textBox5
+            // epoch
             // 
-            this.textBox5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.textBox5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox5.Font = new System.Drawing.Font("Malgun Gothic", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox5.ForeColor = System.Drawing.Color.Green;
-            this.textBox5.Location = new System.Drawing.Point(464, 125);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(125, 31);
-            this.textBox5.TabIndex = 15;
-            this.textBox5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.epoch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.epoch.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.epoch.Font = new System.Drawing.Font("Malgun Gothic", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.epoch.ForeColor = System.Drawing.Color.Green;
+            this.epoch.Location = new System.Drawing.Point(464, 125);
+            this.epoch.Name = "epoch";
+            this.epoch.Size = new System.Drawing.Size(125, 31);
+            this.epoch.TabIndex = 15;
+            this.epoch.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label8
             // 
@@ -237,13 +240,13 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(852, 573);
-            this.Controls.Add(this.textBox5);
+            this.Controls.Add(this.epoch);
             this.Controls.Add(this.label8);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.label7);
+            this.Controls.Add(this.create);
+            this.Controls.Add(this.train);
+            this.Controls.Add(this.output);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.test);
             this.Controls.Add(this.textBox4);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.textBox2);
@@ -271,12 +274,12 @@
         private TextBox textBox2;
         private TextBox textBox3;
         private TextBox textBox4;
-        private Button button1;
+        private Button test;
         private Label label6;
-        private Label label7;
-        private Button button2;
-        private Button button3;
-        private TextBox textBox5;
+        private Label output;
+        private Button train;
+        private Button create;
+        private TextBox epoch;
         private Label label8;
     }
 }

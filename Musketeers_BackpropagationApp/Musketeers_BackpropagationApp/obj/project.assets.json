@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Gecko\\.nuget\\packages\\": {}
+    "C:\\Users\\Elaiza Faye\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gecko\\Documents\\3RD YEAR C1\\CS346\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp.csproj",
+      "projectUniqueName": "C:\\Users\\Elaiza Faye\\Desktop\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp.csproj",
       "projectName": "Musketeers_BackpropagationApp",
-      "projectPath": "C:\\Users\\Gecko\\Documents\\3RD YEAR C1\\CS346\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp.csproj",
-      "packagesPath": "C:\\Users\\Gecko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gecko\\Documents\\3RD YEAR C1\\CS346\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\obj\\",
+      "projectPath": "C:\\Users\\Elaiza Faye\\Desktop\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp.csproj",
+      "packagesPath": "C:\\Users\\Elaiza Faye\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Elaiza Faye\\Desktop\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Gecko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Elaiza Faye\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

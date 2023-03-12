@@ -5,3 +5,20 @@ C:\Users\Gecko\Documents\3RD YEAR C1\CS346\Musketeers-Backpropagation-Algorithm\
 C:\Users\Gecko\Documents\3RD YEAR C1\CS346\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\obj\Debug\net6.0-windows\Musketeers_BackpropagationApp.AssemblyInfoInputs.cache
 C:\Users\Gecko\Documents\3RD YEAR C1\CS346\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\obj\Debug\net6.0-windows\Musketeers_BackpropagationApp.AssemblyInfo.cs
 C:\Users\Gecko\Documents\3RD YEAR C1\CS346\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\obj\Debug\net6.0-windows\Musketeers_BackpropagationApp.csproj.CoreCompileInputs.cache
+C:\Users\Elaiza Faye\Desktop\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\obj\Debug\net6.0-windows\Musketeers_BackpropagationApp.csproj.AssemblyReference.cache
+C:\Users\Elaiza Faye\Desktop\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\obj\Debug\net6.0-windows\Musketeers_BackpropagationApp.Form1.resources
+C:\Users\Elaiza Faye\Desktop\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\obj\Debug\net6.0-windows\Musketeers_BackpropagationApp.csproj.GenerateResource.cache
+C:\Users\Elaiza Faye\Desktop\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\obj\Debug\net6.0-windows\Musketeers_BackpropagationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elaiza Faye\Desktop\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\obj\Debug\net6.0-windows\Musketeers_BackpropagationApp.AssemblyInfoInputs.cache
+C:\Users\Elaiza Faye\Desktop\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\obj\Debug\net6.0-windows\Musketeers_BackpropagationApp.AssemblyInfo.cs
+C:\Users\Elaiza Faye\Desktop\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\obj\Debug\net6.0-windows\Musketeers_BackpropagationApp.csproj.CoreCompileInputs.cache
+C:\Users\Elaiza Faye\Desktop\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\bin\Debug\net6.0-windows\Musketeers_BackpropagationApp.exe
+C:\Users\Elaiza Faye\Desktop\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\bin\Debug\net6.0-windows\Musketeers_BackpropagationApp.deps.json
+C:\Users\Elaiza Faye\Desktop\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\bin\Debug\net6.0-windows\Musketeers_BackpropagationApp.runtimeconfig.json
+C:\Users\Elaiza Faye\Desktop\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\bin\Debug\net6.0-windows\Musketeers_BackpropagationApp.dll
+C:\Users\Elaiza Faye\Desktop\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\bin\Debug\net6.0-windows\Musketeers_BackpropagationApp.pdb
+C:\Users\Elaiza Faye\Desktop\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\obj\Debug\net6.0-windows\Musketeers_BackpropagationApp.dll
+C:\Users\Elaiza Faye\Desktop\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\obj\Debug\net6.0-windows\refint\Musketeers_BackpropagationApp.dll
+C:\Users\Elaiza Faye\Desktop\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\obj\Debug\net6.0-windows\Musketeers_BackpropagationApp.pdb
+C:\Users\Elaiza Faye\Desktop\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\obj\Debug\net6.0-windows\Musketeers_BackpropagationApp.genruntimeconfig.cache
+C:\Users\Elaiza Faye\Desktop\Musketeers-Backpropagation-Algorithm\Musketeers_BackpropagationApp\Musketeers_BackpropagationApp\obj\Debug\net6.0-windows\ref\Musketeers_BackpropagationApp.dll
