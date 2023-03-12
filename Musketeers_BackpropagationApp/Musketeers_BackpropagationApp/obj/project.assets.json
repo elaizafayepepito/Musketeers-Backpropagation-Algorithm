@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\GINALYN FILES\\3rd year 2nd Sem\\CS346\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp.csproj",
+      "projectUniqueName": "C:\\CANEDA_GINALYN\\Caneda, Ginalyn_Repository\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp.csproj",
       "projectName": "Musketeers_BackpropagationApp",
-      "projectPath": "C:\\Users\\user\\Documents\\GINALYN FILES\\3rd year 2nd Sem\\CS346\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp.csproj",
+      "projectPath": "C:\\CANEDA_GINALYN\\Caneda, Ginalyn_Repository\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\GINALYN FILES\\3rd year 2nd Sem\\CS346\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\obj\\",
+      "outputPath": "C:\\CANEDA_GINALYN\\Caneda, Ginalyn_Repository\\Musketeers-Backpropagation-Algorithm\\Musketeers_BackpropagationApp\\Musketeers_BackpropagationApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
